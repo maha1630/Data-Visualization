@@ -1,0 +1,10 @@
+.h1{
+  font-family: Roboto;
+  font-weight: 20px;
+}
+body{
+  background: linear-gradient(180deg, #CDC3EC 16.28%, rgba(66, 121, 227, 0.13) 100%); 
+    position: relative;
+    overflow: hidden;
+
+}
